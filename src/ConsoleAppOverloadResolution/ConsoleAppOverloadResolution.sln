@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35507.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppOverloadResolution", "ConsoleAppOverloadResolution.csproj", "{D3414EA5-8363-4149-93C5-602896EE0FC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3414EA5-8363-4149-93C5-602896EE0FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3414EA5-8363-4149-93C5-602896EE0FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3414EA5-8363-4149-93C5-602896EE0FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3414EA5-8363-4149-93C5-602896EE0FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFAB756A-1745-42B7-9AA1-140124440505}
+	EndGlobalSection
+EndGlobal
